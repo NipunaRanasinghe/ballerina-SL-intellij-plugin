@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nipunaranasinghe.ballerinaslintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nipunaranasinghe.ballerinaslintellijplugin.MyBundle
 
 class MyApplicationService {
 
